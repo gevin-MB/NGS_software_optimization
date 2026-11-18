@@ -1,0 +1,15 @@
+# 大数据/产物不入库
+*.fq.gz
+*.fastq.gz
+*.fq
+*.fastq
+nad_r2.fq.gz
+test/
+nad_test/
+BarcodeStat.txt
+TagStat.txt
+_unbarcoded*
+*_gzip.sh
+*_fq_gzip.sh
+/split_barcode/split_barcode
+*.o
